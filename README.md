@@ -1,2 +1,2 @@
-# ProjectArtbeit_
+# GameProgramming
 University Project
