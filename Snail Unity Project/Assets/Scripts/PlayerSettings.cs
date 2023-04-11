@@ -7,6 +7,7 @@ public class PlayerSettings
     public int minMapSize;
     public int maxMapSize;
 
+    //constructor
     public PlayerSettings(int min, int max)
     {
         minMapSize = min;
